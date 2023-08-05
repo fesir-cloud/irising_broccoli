@@ -9,7 +9,8 @@ void main {
 for(int n, n < w, n++){
 
   for(int m, m < h, n++){
-  //output pixel (n|m) HEX Value to Perceptron (n|m)
+  //Define Perceptron (n|m)
+  //output pixel (n|m) HEX Value to Perceptron (n|m) as Parameter
     }
   }
 
