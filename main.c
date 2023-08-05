@@ -1,6 +1,6 @@
+inculde:<iostream>
 
-
-
+//array mind(n,m,i,x) //vierdimensionaler Array der die Gewichte speichert
 
 void main {
 //load initial image(w x h Pixels)
@@ -16,3 +16,13 @@ for(int n, n < w, n++){
 
   
 }
+
+class node(int hexR; int hexG;int hexB;) {
+//int a=f(n,m,i,1)
+//int a=f(n,m,i,1)
+  //int hexR;
+  //int hexG;
+  //int hexB;
+//Verarbeitung  
+}
+
